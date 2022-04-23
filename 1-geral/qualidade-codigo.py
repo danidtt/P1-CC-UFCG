@@ -1,8 +1,14 @@
-from p1 import Array
+# 1° importar módulos (import)
+# 2° funções (def): 2 espaços, cima e baixo
+# 3° variáveis
+# 4° restante
+# 5° formatação e impressão (print)
+from math import sqrt
 #
 #
 def funcao(parametro):
-    return parametro * 2
+    resultado = sqrt(parametro * 2)
+    return resultado
 #
 #
 lista = [1, 2, 3, 4]
