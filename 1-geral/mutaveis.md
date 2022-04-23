@@ -7,4 +7,4 @@ IMUTÁVEIS
 MUTÁVEIS = posso iterar
 
 - lista
-- A lista precisa ou inteiramente de strings, inteiros ou float
+- A lista precisa ser inteiramente de strings, inteiros ou float
