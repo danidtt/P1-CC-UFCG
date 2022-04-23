@@ -2,9 +2,9 @@
 
 1. Leitura e armazenamento de dados na memória
 
-    input()
-    dados = 0
-    lista = []
+    - input()
+    - dados = 0
+    - lista = []
 
 2. Processamento:
 
